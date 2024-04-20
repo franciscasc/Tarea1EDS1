@@ -36,6 +36,7 @@ void mostrarMenuPrincipal() {
   puts("5) Mostrar pacientes por prioridad");
   puts("6) Salir");
   puts("7) Mostrar sin orden");
+  
 }
 
 void registrar_paciente(List *pacientes) {
